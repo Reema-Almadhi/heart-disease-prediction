@@ -1,4 +1,4 @@
-# Heart Disease Risk Prediction Using different Machine Learning
+# Heart Disease Risk Prediction Using different Machine Learning algorithms
 
 A comparison of five machine learning classification algorithms for heart disease 
 risk prediction, evaluated using accuracy, precision, recall, F1-score, and AUC.
